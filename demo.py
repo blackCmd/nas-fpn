@@ -1,12 +1,7 @@
 from mmdet.apis import init_detector, inference_detector
-# import mmcv
-# import torch
-
 import cv2
-import pandas as pd
 import numpy as np
 import os
-import copy
 from natsort import natsorted, ns
 
 import time
