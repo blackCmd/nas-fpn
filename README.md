@@ -7,8 +7,6 @@ This repo is the output of the [IITP AI Grand Challenge](http://www.ai-challenge
 
 ![demo image](resources/sample_slow.gif)
 
-Thank you.
-
 How to use
 -------
 1. Build [mmdetection](https://github.com/open-mmlab/mmdetection).
