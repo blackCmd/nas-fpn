@@ -9,6 +9,12 @@ This repo is the output of the [IITP AI Grand Challenge](http://www.ai-challenge
 
 Thank you.
 
+Model Zoo
+-------
+https://drive.google.com/file/d/1pbc1R4oIaKNTQ-R_kqx9QnBmziN9up6B/view?usp=sharing
+
+(Download below **./checkpoints/**)
+
 Reference
 -----
 [NAS-FPN](https://arxiv.org/abs/1904.07392)
