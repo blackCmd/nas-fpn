@@ -9,9 +9,20 @@ This repo is the output of the [IITP AI Grand Challenge](http://www.ai-challenge
 
 Thank you.
 
+How to use
+-------
+1. Build [mmdetection](https://github.com/open-mmlab/mmdetection).
+2. Download model.
+3. python **./demo.py**
+4. You can see result like below.
+![result_image](resources/inference_result.jpg)
+
+
 Model Zoo
 -------
 https://drive.google.com/file/d/1pbc1R4oIaKNTQ-R_kqx9QnBmziN9up6B/view?usp=sharing
+
+
 
 (Download below **./checkpoints/**)
 
