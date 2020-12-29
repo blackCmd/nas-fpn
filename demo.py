@@ -16,7 +16,7 @@ def pred(model, img):
 
     print("Inference FPS : {}".format(1/(t2-t1)))
 
-    model.show_result(img, result, score_thr=score_thr, wait_time=1, show=True, win_name='inference')
+    model.show_result(img, result, score_thr=score_thr, wait_time=0, show=True, win_name='inference')
 
     return result
 
