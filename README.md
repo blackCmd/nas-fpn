@@ -15,7 +15,7 @@ How to use
 2. Download model.
 3. python **./demo.py**
 4. You can see result like below.
-![result_image](resources/inference_result.jpg)
+![result_image](resources/inference_result.jpeg)
 
 
 Model Zoo
