@@ -1,4 +1,4 @@
-Detection and tracking for swooned person using NAS-FPN.
+Detecting and tracking for swooned person using NAS-FPN
 ========
 
 Introduce
@@ -9,9 +9,9 @@ This repo is the output of the [IITP AI Grand Challenge](http://www.ai-challenge
 
 How to use
 -------
-1. Build [mmdetection](https://github.com/open-mmlab/mmdetection).
-2. Download model.
-3. python **./demo.py**
+1. Download this repo and build. (Build tutorial is [here](https://mmdetection.readthedocs.io/en/latest/get_started.html#installation).)
+2. Make "**./checkpoints**" directory and download model below **./checkpoints**.
+3. run ```python ./demo.py```.
 4. You can see result like below.
 ![result_image](resources/inference_result.jpeg)
 
@@ -19,8 +19,6 @@ How to use
 Model Zoo
 -------
 https://drive.google.com/file/d/1pbc1R4oIaKNTQ-R_kqx9QnBmziN9up6B/view?usp=sharing
-
-
 
 (Download below **./checkpoints/**)
 
