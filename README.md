@@ -10,7 +10,7 @@ This repo is the output of the [IITP AI Grand Challenge](http://www.ai-challenge
 How to use
 -------
 1. Download this repo and build. (Build tutorial is [here](https://mmdetection.readthedocs.io/en/latest/get_started.html#installation).)
-2. Make "**./checkpoints**" directory and download model below **./checkpoints**.
+2. Make *"**./checkpoints**"* directory and download model below  ***./checkpoints**.*
 3. run ```python ./demo.py```.
 4. You can see result like below.
 ![result_image](resources/inference_result.jpeg)
