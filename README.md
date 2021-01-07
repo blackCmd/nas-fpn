@@ -3,7 +3,7 @@ Detection and tracking for swooned person using NAS-FPN (Ver. 1.0)
 
 Introduce
 -----
-This repo is the output of the [IITP AI Grand Challenge](http://www.ai-challenge.kr/). It was released under [Apache License 2.0](https://github.com/blackCmd/nas-fpn/blob/main/LICENSE), and anyone can use it freely within the scope of the license.
+This repo is the output of the [IITP AI Grand Challenge](http://www.ai-challenge.kr/). It was released under [Apache License 2.0](https://github.com/blackCmd/nas-fpn/blob/master/LICENSE), and anyone can use it freely within the scope of the license.
 
 ![demo image](resources/sample_slow.gif)
 
