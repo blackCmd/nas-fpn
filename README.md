@@ -1,4 +1,4 @@
-Detection and tracking for swooned person using NAS-FPN
+Detection and tracking for swooned person using NAS-FPN (Ver. 1.0)
 ========
 
 Introduce
