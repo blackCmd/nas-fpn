@@ -111,8 +111,7 @@ def read_directory(root_dir, model) :
         
 def set_answer_file(answer_list):
     answer_csv = pd.DataFrame(
-        [answer_data for answer_data in answer_list]
-    )
+        [answer_data for answer_data in answer_list])
     answer_csv.to_csv('t1_res_0122.csv', index=False, mode='a', header=False)
     print('=*=*=정답기록*=*=')
     
